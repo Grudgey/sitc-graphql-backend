@@ -1,0 +1,11 @@
+type Query {
+  info: String!
+}
+
+type Mutation {
+  update: String!
+}
+
+type Subscription {
+  update: String!
+}
